@@ -1,0 +1,19 @@
+------Example Dork Shodan------
+
+http.title:"africode7"          | Title Web
+city:"Jakarta"                  | City
+country:"ID"                    | Country
+server: "gws" hostname:"google" | Server & Hostname
+net:210.214.0.0/16              | Net
+os:"Linux"                      | Operating System
+title:"citrix gateway"          | Title Maybe
+org:microsoft                   | Organization
+ssl.cert.subject.cn:example.com | SSL
+device:phone                    | Device Type
+product:"android"               | Product
+cpe:microsoft                   | CPE
+server:microsoft                | Server
+http.html:/admin                | URL Web
+
+Thanks :D
+Sorry if things go wrong
